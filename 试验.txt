@@ -1,4 +1,8 @@
 学习东西
 https://github.com/explore
 https://github.com/search
-https://github.com/stars
+https://github.com/stars 
+
+**对的**
+这里写一个脚注[^ 1]
+
